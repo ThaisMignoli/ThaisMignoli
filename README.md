@@ -1,5 +1,12 @@
 ### Hi there 👋
+Welcome to my Github! I'm a new developer student that loves coffee, *pão de queijo* and my sausage dog!  Here you'll find some codes and projects that I develop in my studies.
 
+## :calendar: I’m currently ...
+### 🌱 Learning ...
+* Java
+* JavaScript
+### :mortar_board: Graduating ...  
+Analysis and systems development technologist, in FATEC Mogi das Cruzes.
 <!--
 **ThaisMignoli/ThaisMignoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
