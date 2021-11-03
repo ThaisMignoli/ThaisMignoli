@@ -5,7 +5,6 @@ Welcome to my Github! I'm a new developer student that loves coffee, *pão de qu
 ### 🌱 Learning
 * Java
 * JavaScript
-* Android with Kotlin
 ### :mortar_board: Graduating  
 Analysis and systems development technologist, in FATEC Mogi das Cruzes.
 <!--
