@@ -3,8 +3,8 @@ Welcome to my Github! I'm a new developer student that loves coffee, *pão de qu
 
 ## :calendar: I’m currently ...
 ### 🌱 Learning
-* Java
 * JavaScript
+* React Native
 ### :mortar_board: Graduating  
 Analysis and systems development technologist, in FATEC Mogi das Cruzes.
 <!--
