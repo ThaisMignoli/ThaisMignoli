@@ -4,11 +4,11 @@ Welcome to my Github! I'm a new developer student that loves coffee, *pão de qu
 ## :calendar: I’m currently ...
 ### 🌱 Learning
 * React Native
+* ReactJs
+* Ruby on Rails
 * TypeScript
 * JavaScript
-* Node
-### :mortar_board: Graduating  
-Analysis and systems development technologist, in FATEC Mogi das Cruzes.
+  
 
 ## 
   
